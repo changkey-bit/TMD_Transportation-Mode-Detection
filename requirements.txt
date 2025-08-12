@@ -1,0 +1,11 @@
+# Hardware
+13th Gen Intel(R) Core(TM) i5-13600KF
+NVIDIA Geforce RTX 4070
+RAM 32GB VRAM 12GB
+
+# Software
+Ubuntu 20.04
+CUDA == 11.8
+cuDNN == 8.6.0
+python == 3.8.10
+tensorflow == 2.13.0
